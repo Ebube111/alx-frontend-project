@@ -5,7 +5,7 @@ N-learn short for NFT-Learn an Alx Project built by Ebube Agwaze that tries to a
 
 
 ## Personal Links and Project Site
-Visit the live site: [deployment](https://ebube111.github.io/alx-project/) for more information.
+
 My linkedin profile: [LinkedinProfile](https://www.linkedin.com/in/ebube-agwaze-375a771b8/)
 Blog post: [blog](https://medium.com/@ebubeagwaze/the-n-learn-project-818b5d79100e)
 
